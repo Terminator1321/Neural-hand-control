@@ -1,0 +1,16 @@
+mediapipe==0.10.14
+opencv-python==4.9.0.80
+numpy==1.26.4
+scikit-learn==1.5.2
+tensorflow==2.15.0
+joblib==1.4.2
+pyautogui==0.9.54
+keyboard==0.13.5
+pyttsx3==2.90
+Flask==3.0.3
+matplotlib==3.8.4
+pandas==2.3.3
+screen_brightness_control
+comtypes==1.1.14
+pycaw==20230407
+pyinstaller
