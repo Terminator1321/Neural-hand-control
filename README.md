@@ -6,7 +6,7 @@ It allows you to move the mouse, perform clicks, scroll, and adjust brightness o
 It includes a real-time gesture visualizer and a pretrained TensorFlow Lite model for accurate recognition and fast performance.
 
 Download the `.exe` version and usage guide here:
-[https://rohan-das.great-site.net/Projects/Docs/tut_app.html](https://rohan-das.great-site.net/Projects/Docs/tut_app.html)
+https://rohan-das.great-site.net/Projects/Docs/tut_app.html
 
 ---
 
